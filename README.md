@@ -44,7 +44,7 @@ As part of my Data Science Internship at **Prodigy InfoTech**, this project tack
 
 Click to view in Colab or download locally to run:
 
-[GitHub Repository Link here]
+[[GitHub Repository Link here](https://github.com/zeeshan8088/PRODIGY_DS_03/blob/88928962bf961d720a4e081ed4d488daa554a0ab/README.md)]
 
 ---
 
